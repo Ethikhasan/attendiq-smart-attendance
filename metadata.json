@@ -1,0 +1,6 @@
+{
+  "name": "AttendX – Student Attendance Management & Analytics System",
+  "description": "Secure student attendance management platform for faculty and students with real-time analytics, session tracking, and attendance percentage calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
