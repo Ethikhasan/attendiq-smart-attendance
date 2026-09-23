@@ -95,3 +95,8 @@ AttendIQ goes beyond basic attendance recording by providing explainable insight
 **AttendIQ – Smart Attendance Management System**
 
 **Tagline:** Record. Analyze. Understand. Act.
+<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/41372fc2-9b95-4bf4-b05b-0d6ad26b343e" />
+<img width="1600" height="851" alt="image" src="https://github.com/user-attachments/assets/fcbfc405-66e4-4f19-b3be-563870db3014" />
+<img width="1600" height="833" alt="image" src="https://github.com/user-attachments/assets/bd1999e2-d27c-4a7a-b36b-2e9776f86c30" />
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/f3b8a410-a66b-44a5-b2ae-92703bed6743" />
+<img width="1600" height="823" alt="image" src="https://github.com/user-attachments/assets/3d2df4ef-b617-497f-9215-c8c53c61a7fa" />
